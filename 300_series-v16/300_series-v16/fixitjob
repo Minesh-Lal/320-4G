@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="1">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="824" startPos="334" endPos="334" selMode="0" lang="C" encoding="-1" filename="D:\Old PC\fixitjob\EDAC300_Series_Code\main.c" />
+        </mainView>
+        <subView activeIndex="4">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="824" startPos="1" endPos="1" selMode="0" lang="C" encoding="-1" filename="D:\Old PC\fixitjob\EDAC300_Series_Code\main.c" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="768" startPos="0" endPos="0" selMode="0" lang="C" encoding="-1" filename="D:\Old PC\fixitjob\EDAC300_Series_Code\Drivers\mmc.c" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="480" startPos="0" endPos="0" selMode="0" lang="C" encoding="-1" filename="D:\Old PC\fixitjob\EDAC300_Series_Code\Drivers\modem.c" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1088" startPos="0" endPos="0" selMode="0" lang="C" encoding="-1" filename="D:\Old PC\fixitjob\EDAC300_Series_Code\Drivers\sms.c" />
+            <File firstVisibleLine="2252" xOffset="0" scrollWidth="1022" startPos="62651" endPos="62651" selMode="0" lang="C" encoding="-1" filename="D:\Old PC\fixitjob\EDAC300_Series_Code\Drivers\uart.c" />
+        </subView>
+    </Session>
+</NotepadPlus>

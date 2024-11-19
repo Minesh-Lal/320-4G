@@ -1,0 +1,9 @@
+Base board
+-----------
+Load R506 with 100k
+Remove R507 (was 0R)
+
+Top board
+-----------
+Remove R132
+Jumper between PIN7 of U104 (on R105) and PIN7 of U106 (on R132)
